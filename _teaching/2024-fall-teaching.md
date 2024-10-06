@@ -7,4 +7,6 @@ venue: "Department of Mechanical Engineering, University of California, Berkeley
 # date: Fall 2024 2024-08-01
 
 location: "Berkeley, CA, USA"
+
+courselink: "https://classes.berkeley.edu/content/2024-fall-meceng-104-001-lec-001"
 ---
