@@ -8,7 +8,3 @@ venue: "Department of Mechanical Engineering, University of California, Berkeley
 
 location: "Berkeley, CA, USA"
 ---
-
-<!-- This is a description of a teaching experience. You can use markdown like any other post. -->
-
-<!-- Heading 1 -->
