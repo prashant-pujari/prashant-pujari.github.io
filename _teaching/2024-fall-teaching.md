@@ -10,15 +10,7 @@ location: "California, USA"
 
 
 
-#### [ME 106, Fluid Mechanics, Spring 2024](https://classes.berkeley.edu/content/2024-fall-meceng-104-001-lec-001)
+# [Course Site](https://classes.berkeley.edu/content/2024-fall-meceng-104-001-lec-001)
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
 
 
