@@ -25,8 +25,8 @@ author:
   name             : "Prashant Pujari"
   pronouns         : # example: "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
-  
-  location         : "California, USA"
+
+  location         : #"California, USA"
   employer         : "University of California, Berkeley"
   uri              : # URL
   email            : "prashantpujari05@gmail.com" 
