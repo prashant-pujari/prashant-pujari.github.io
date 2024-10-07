@@ -22,12 +22,10 @@ repository               : "prashant-pujari/prashant-pujari.github.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Prashant Pujari
-  "
+  name             : "Prashant Pujari"
   pronouns         : # example: "she/her"  
-  bio              : # "Short biography for the left-hand sidebar"
-
-  location         : # "California, USA"
+  bio              : "Short biography for the left-hand sidebar"
+  location         : "California, USA"
   employer         : "University of California, Berkeley"
   uri              : # URL
   email            : "prashantpujari05@gmail.com" 
