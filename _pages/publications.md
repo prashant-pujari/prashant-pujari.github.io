@@ -16,13 +16,7 @@ redirect_from:
 ### [Drag reduction by application of aerodynamic devices in a race car](https://aia.springeropen.com/articles/10.1186/s42774-020-00054-7)
 
 ### [Designing, modeling, and structural analysis of a newly designed double lobe camshaft for a two-stroke compressed air engine](https://www.sciencedirect.com/science/article/pii/S2214785321051361)
-* Spring, 2023
-* Intructor: Prof. M. Reza Alam
-* Department of Mechanical Engineering, University of California, Berkeley
 
 ### [Modification of 4-Stroke S.I. Engine to a Compressed Air Engine for a Light Utility Vehicle](https://iopscience.iop.org/article/10.1088/1757-899X/804/1/012006/meta)
 
 ### [Potentials of waste plastic pyrolysis oil as an extender fuel for diesel engine](https://link.springer.com/article/10.1007/s12517-020-05574-6)
-* Spring, 2023
-* Intructor: Prof. M. Reza Alam
-* Department of Mechanical Engineering, University of California, Berkeley
