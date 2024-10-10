@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Teaching
+title: Teaching Assistant
 permalink: /teaching/
 author_profile: true
 redirect_from:
@@ -8,12 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-
-
-
-
-## Teaching Assistant
 
 
 ### [ME 104, Engineering Mechanics II](https://classes.berkeley.edu/content/2024-fall-meceng-104-001-lec-001)
