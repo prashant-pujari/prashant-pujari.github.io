@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-### Real-Time Ocean Prediction via a Grid of Autonomous Self-powered Swarm of Ocean Sensors [Access](https://link.springer.com/chapter/10.1007/978-3-031-53652-6_18)
+### Real-Time Ocean Prediction via a Grid of Autonomous Self-powered Swarm of Ocean Sensors [[Link]](https://link.springer.com/chapter/10.1007/978-3-031-53652-6_18)
 
 ### [Performance enhancement of savonius turbine with the application of reorienting blade mechanism](https://www.tandfonline.com/doi/full/10.1080/15567036.2021.1948635)
 
