@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: # "Research Projects"
+title: Research
 permalink: /research/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-# Research Projects
+<!-- # Research Projects -->
 
 
 ### Brachistochrone

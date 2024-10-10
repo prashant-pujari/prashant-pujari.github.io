@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: # "Teaching Assistant"
+title: Teaching
 permalink: /teaching/
 author_profile: true
 redirect_from:
@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+
 
 # Teaching Assistant
 
