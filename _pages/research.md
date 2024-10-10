@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<!-- # Research Projects -->
-
 
 ### Brachistochrone
 * Fall, 2024
